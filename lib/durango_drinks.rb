@@ -1,5 +1,6 @@
 require 'open-uri'
 require 'nokogiri'
+require 'ostruct'
 require 'pry'
 
 require_relative './durango_drinks/bar'
